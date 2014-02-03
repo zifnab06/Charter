@@ -38,7 +38,7 @@ Committee members will be given ingame access to tech commands for the purpose o
 
 ### In-game responsibilities and "legitimate" gameplay
 
-For technical reasons, the separation offered by [Tier2](https://github.com/SyntaxNode/Tier2) is unlikely to be sufficient to keep Tech Committee members' player activities entirely separate from their duties as a member of tech staff. Committee members are strongly encouraged to use an alternate account if they wish to play competitively; at the very least, care should be taken to avoid leaving assistance mode while any special items or abilities are in effect, or making use of potentially sensitive information learned while "on duty".
+For technical reasons, the separation offered by [Tier2](https://github.com/JunctionAt/Tier2) is unlikely to be sufficient to keep Tech Committee members' player activities entirely separate from their duties as a member of tech staff. Committee members are strongly encouraged to use an alternate account if they wish to play competitively; at the very least, care should be taken to avoid leaving assistance mode while any special items or abilities are in effect, or making use of potentially sensitive information learned while "on duty".
 
 ## Gameplay
 
