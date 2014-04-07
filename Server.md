@@ -37,13 +37,14 @@ Players who cannot abide by these guidelines will be subject to the section “[
 **Staff protects builds, not claims**. It’s an anti-griefing measure, not a land-grab technique. To make a protection request, mark the corners of your build with something that stands out and that you can remove later, then use /modreq and tell us what we are protecting (adding coordinates in the req also helps).
 
 ##You Can't Get Ye Item!
-**These items cannot be placed by players**. This list is as short as possible, and is intended solely to prevent griefing or widespread damage.
+**These items cannot be placed by players**. This list is as short as possible, and is intended solely to prevent griefing or widespread damage. 
 
-- Flint and steel (modreq for fire)
-- Flowing water (modreq for it!)
-- Flowing lava (modreq for it!)
+- Flint and steel
 - TNT
-- Nether Portals
+- TNT Minecarts
+
+
+Rules #2, #3, #4, protections, and the banned item list do not apply on Chaos. 
 
 This list may change in the future, subject to a rules change proposal.
 
