@@ -1,13 +1,32 @@
 #The official Junction server charter
 
 ##General Guidelines
-No staff member is more important than any other. No one person is in charge of any aspect of gameplay, or operations. Decisions should and will be made as laid out by these guidelines, precluding the need for any individual to act as if they are in charge.
-**Junction is a server based around a community working together to have fun.**
+Everyone is equal - including staff. Any decisions should be made as laid out in these guidelines, removing the need for any individual to act as if htey are in charge. Junction is a server based around a community working together to have fun. 
 
 ##Player Guidelines
-1\. **Be respectful of everyone on the server**, whether it be someone brand new or someone in a staff position, through words and actions. Disrespectful actions include using racial or homophobic slurs, harassing fellow players and/or staff, being an unreasonable annoyance to other players, or behaving in a way that is disruptive or unhelpful.  In a survival setting, some banter is expected but should not reach a level of harassment.
+###General Rules
+1\. **Be respectful of everyone on the server**, whether they are a new player or a staff member. Disrespectful actions include (but are not limited to)
+  * Using racial or homophobic slurs
+  * Player and/or staff harrassment
+  * Being an annoyance to other players
+  * Behaving in a way that is disruptive and/or unhelpful
 
-2\. **No griefing**. Griefing includes but is not limited to:
+2\. **Do not promote griefing non-chaos servers** using any form of communication provided by Junction. This includes in-game chat, subreddit, Mumble, forum, or IRC channels. 
+
+3\. **Use of mods that give you an advantage over other players is unacceptable**. This includes (but is not limited to):
+  * X-Ray (All of your edits will be removed)
+  * Speed Hacking
+  * Fly Hacking
+
+4\. **Do not create lag machines**. This includes redstone clocks that can not be turned off. 
+
+5\. **Keep the server SFW**. This includes all skins and builds. Offensive skins (such as hitler) are not allowed, you will be kicked for using one. Offensive structures will result in a ban. 
+
+6\. **Please don't spam chat or advertise other servers**
+
+
+###PvE
+1\. **No griefing**. Griefing includes but is not limited to:
 
 - Destroying a build
 - Modifying a build without the owner’s consent, or preventing an owner’s access to their build
@@ -15,44 +34,32 @@ No staff member is more important than any other. No one person is in charge of 
 - Flooding a structure
 - Killing others stabled animals, villagers, or taking crops without replanting
 
-3\. **We do not allow discussion promoting griefing in any way, shape or form** via communication mediums provided by Junction. This includes the in-game chat, subreddit, Mumble, forum or IRC channels.
+2\. **Be mindful of space**. Please give your fellow players room to build. Also, cities are no more important than single builds. 
 
-4\. **Be mindful of space**, give other builds room to breathe. On the same note, no one build holds priority over another. A large city/build may not be considered more valuable than the humble home of a single player.
+3\. **Staff protect builds, not claims**. Protections are an anti-griefing measure, not a land-grab technique. If you'd like a build protected, talk to a staff member. 
 
-5\. **Use of mods that give you an advantage over other players is unacceptable**. This includes but is not limited to: x-ray clients, speed hacking, flying hacks, etc. If you have a question about a specific mod, please check the [Junction Subreddit](/r/Junction).  Someone may have asked this question before. If not, please post and ask.
+4\. **Banned Items** (This list may change in the future, either because of a player vote or a technical reason)
+  * TNT
+  * TNT Minecarts
+  * Beds in Nether
 
-6\. **Do not create structures that will harm the efficient operation of the server**. This includes redstone machines that are on clocks and cannot be turned off, or pistons and dispensers that are activated without players deliberately doing so.
+###Chaos
+1\. **No griefing spawn**. Areas outside spawn are fair game. 
 
-7\. **Be mindful of your drops**: Do not leave your cobble lying around! This makes the server sad. It takes very little in terms of space and resources to carry a bucket of lava with you to destroy entities you do not intend to store.
+2\. **Staff reserve the right to clean up anything which makes the game unplayable**. 
 
-8\. **Keep the server SFW!** Aside from just not building suggestive structures, make sure the skin you use is also clothed - and preferably not offensive. Some skins, such as Hitler, are obviously offensive. Staff reserve the right to kick players using blatantly offensive skins and ask them to change their skin before logging on again.
+3\. **Chaos is volatile**. The map will reset as soon as possible after new major minecraft versions are released. 
 
-9\. **Please don't spam chat**. Also, advertising other servers is strictly prohibited.
+###Other servers
+As other servers come and go, their respective sections will be updated here. All servers will have their rules posted somewhere in that server's spawn area. 
 
-10\. **Keep your issues with other servers to those servers.** Junction is not a staging ground for attacks on servers you dislike. Discussion promoting attacks on other servers and/or its members is prohibited.
-
-Players who cannot abide by these guidelines will be subject to the section “[When Someone Breaks the Rules](#toc_8).”
-
-##Protections and YOU!
-**Staff protects builds, not claims**. It’s an anti-griefing measure, not a land-grab technique. To make a protection request, mark the corners of your build with something that stands out and that you can remove later, then use /modreq and tell us what we are protecting (adding coordinates in the req also helps).
-
-##You Can't Get Ye Item!
-**These items cannot be placed by players**. This list is as short as possible, and is intended solely to prevent griefing or widespread damage. 
-
-- Flint and steel
-- TNT
-- TNT Minecarts
-
-
-Rules #2, #3, #4, protections, and the banned item list do not apply on Chaos. 
-
-This list may change in the future, subject to a rules change proposal.
 
 ##When Someone Breaks The Rules
-If a player breaks the rules or persists in ignoring the player guidelines, **they are subject to sanction**. While the rules violation will largely dictate the response, the first offense commonly results in the player being kicked from the server. Players who flagrantly break the rules, or continue to break the rules after being kicked, can be banned **with or without warning**. 
+The severity of the violation will largely dictate the response. Normally, a player will be warned/kicked before they are banned. Players who continue to break the rules can be banned **with or without warning**. Most bans can be appealed. Instructions for appealing can be found [here](https://junction.at/appeal). 
 
-Bans can, of course, be appealed. The appeals process will be located on the website. Please do not appeal or discuss appeals outside of the proper venue. Using an alt to evade a ban is prohibited; **DO NOT DO THIS**.
-If a staff member breaks the rules, or if there is a dispute with the staff member, **please take it to the Arbitration Committee**. If a member of the Arbitration Committee is involved in the dispute, that member is expected to recuse themselves.
+Do not use alt accounts to evade bans. Both you (and your alt) will recieve a longer ban duration for evading. 
+
+If a staff member is found breaking the rules, please bring this information to another staff member. 
 
 ##Staff Guidelines
 **The Number One Rule:** Real life and health always come first. This isn’t a job, it’s a game.
@@ -75,8 +82,19 @@ If a staff member breaks the rules, or if there is a dispute with the staff memb
 When something needs discussion, **time is always on our side**. Waiting to make a decision is always preferable to a hasty or bad decision. In the event of major security issues, the server will be taken down and the staff will work to resolve the security issue as soon as practicable. If the issue allows the server to remain open but requires normal servers to be closed, a temporary chaos server will be created (or re-loaded). This is in accordance with our underlying philosophy that we are here to foster our community, and our community is best served by maintaining a place to play whenever practicable.
 
 ###Responsibilities
-**Junction uses committees for certain functions because a small number of dedicated people can concentrate on specific things and accomplish those things quicker**.  All players and staff are welcome to give feedback to committees on their respective issues.  Many committees will include experienced non-staff players.  This is intended to allow people who are not part of the staff to be involved - and to ensure the community is broadly represented - in important matters such as resolving player disputes and planning future server revisions.
+**Junction uses teams for certain functions because a small number of dedicated people can concentrate on specific things and accomplish those things quicker**.  All players and staff are welcome to give feedback to teams on their respective issues.  Some teams may include experienced non-staff players.  This is intended to allow people who are not part of the staff to be involved - and to ensure the community is broadly represented - in important matters such as resolving player disputes and planning future server revisions.
 
-- Tech Committee: These are the people making sure our server is happy and healthy. Before changing anything that changes gameplay, the Tech Committee needs to bring their proposal to the rest of the staff for discussion. The Tech Committee and the staff are charged with recognizing that holding the keys to the server - as with all staff positions - is a responsibility and not a privilege.
-- Arbitration Committee: This committee will transition from revision to revision, and be comprised of both staff and experienced non-staff players. This Committee’s purpose is to resolve fairly any game-related dispute between players or between players and staff, such as issues related to in-game behavior or contested land claims.
-- Other Committees: Junction will create or revise other committees as necessary, including revision planning committees.
+- Tech Team: These are the people making sure our server is happy and healthy. Before changing anything that changes gameplay, the Tech Committee needs to bring their proposal to the rest of the staff for discussion. The Tech Committee and the staff are charged with recognizing that holding the keys to the server - as with all staff positions - is a responsibility and not a privilege.
+- Moderation Team: This group deals with the day-to-day operations of the server. This includes modreqs, enforcing rules, and helping players. The Tech Team is a subset of this team. 
+
+Other teams will come and go as needed. 
+
+All current teams are listed at [https://junction.at/staff](http://junction.at/staff). 
+
+
+###Inactivity
+Life happens. People get busy and leave for a while. However, we do need to know which staff members are still playing on Junction, and which have moved on. 
+
+- **Inactive staff will be moved to the Inactive Staff group after 90 days and have their moderation powers temporarily removed**. You can return whenever you would like during this time. 
+
+- **After 180 days, you will be moved to the "Former Staff" section. Once you have been moved to the Former Staff section, a vote must be held before you can return. Approval of 2/3 of the currently active staff is required before you can return**
